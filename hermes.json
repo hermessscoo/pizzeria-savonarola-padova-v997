@@ -1,0 +1,197 @@
+{
+ "version": 11,
+ "raw": {
+  "brand": {
+   "name": "Pizzeria Savonarola",
+   "tagline": "Autentica pizza napoletana e impasto a lenta lievitazione a Padova",
+   "sector": "Ristorazione & Pizzeria",
+   "art_direction": "Atmosphere of authentic Neapolitan pizza craftsmanship in a warm wood-fired oven, capturing the moment of transformation from dough to golden perfection."
+  },
+  "palette": {
+   "bg": "#faf9f6",
+   "fg": "#1a1a1a",
+   "accent": "#c1121f",
+   "muted": "#6b6b6b",
+   "surface": "#f0ebe0",
+   "on_accent": "#ffffff",
+   "line": "#d6d5d3",
+   "dark": false
+  },
+  "typography": {
+   "title": "Syne",
+   "body": "IBM Plex Sans"
+  },
+  "sections": [
+   {
+    "role": "attenzione",
+    "type": "hero_image",
+    "title": "Pizza napoletana autentica a Padova",
+    "subtitle": "Impasto a lenta lievitazione naturale 24-48 ore, ingredienti DOP campani e veneti, forno a legna tradizionale.",
+    "cta_primary": "Prenota un Tavolo",
+    "cta_primary_href": "#prenota",
+    "cta": {
+     "href": "#contatti",
+     "label": "Prenota un Tavolo"
+    }
+   },
+   {
+    "role": "problema",
+    "type": "text_reveal",
+    "statement": "Stanco delle solite pizze pesanti o industriali? A Padova meriti il gusto verace dell'arte pizzaiola napoletana.",
+    "text": "Ti sei mai chiesto: perché quest'ultima volta che mangiai pizza sentivo davvero il gusto dell'origine, con un impasto leggero come l'aria e un cornicione che reggraia perfettamente?"
+   },
+   {
+    "role": "soluzione",
+    "type": "split",
+    "title": "La Nostra Filosofia: Tradizione e Digeribilità",
+    "text": "Ecco come trasformiamo la passione per la pizza autentica in una routine quotidiana sostenibile per te e la tua famiglia: impasto a lunghissima lievitazione, cottura a 450°C e ingredienti selezionati direttamente dai produttori. In tre semplici passi: scegli la pizza giusta, gustala senza pesantezza, riconosci la differenza.",
+    "lines": [
+     "1. Impasto a 48 ore di lievitazione naturale",
+     "2. Ingredienti DOP selezionati a mano",
+     "3. Cottura a legna per gusto verace"
+    ]
+   },
+   {
+    "role": "offerta",
+    "type": "offer",
+    "title": "Le Nostre Pizze Iconiche",
+    "items": [
+     {
+      "name": "Margherita Verace DOP",
+      "price": "€ 9,50",
+      "desc": "Pomodoro San Marzano DOP, mozzarella di bufala campana DOP, basilico fresco, olio evo bio",
+      "title": "Margherita Verace DOP",
+      "text": "Pomodoro San Marzano DOP, mozzarella di bufala campana DOP, basilico fresco, olio evo bio"
+     },
+     {
+      "name": "Savonarola Special",
+      "price": "€ 13,00",
+      "desc": "Fior di latte di Agerola, crema di zucca violina, salsiccia nostrana padovana e provola affumicata",
+      "title": "Savonarola Special",
+      "text": "Fior di latte di Agerola, crema di zucca violina, salsiccia nostrana padovana e provola affumicata"
+     },
+     {
+      "name": "Marinara ai Sapori Antichi",
+      "price": "€ 8,50",
+      "desc": "Pomodoro San Marzano, origano dei monti Iblei, aglio rosso di Nubia, acciughe di Cetara",
+      "title": "Marinara ai Sapori Antichi",
+      "text": "Pomodoro San Marzano, origano dei monti Iblei, aglio rosso di Nubia, acciughe di Cetara"
+     }
+    ],
+    "cta": {
+     "href": "#contatti",
+     "label": "Prenota un Tavolo"
+    }
+   },
+   {
+    "role": "usp",
+    "type": "stacked_cards",
+    "title": "Perché Scegliere Pizzeria Savonarola",
+    "cards": [
+     {
+      "title": "Lievitazione Naturale 48h",
+      "desc": "Un impasto soffice dal cornicione alveolato ad alta digeribilità."
+     },
+     {
+      "title": "Forno a Legna Tradizionale",
+      "desc": "Cottura ad oltre 450°C per un risultato dorato, fragrante e verace."
+     },
+     {
+      "title": "Ingredienti 100% DOP e Bio",
+      "desc": "Solo filiera certificata dai migliori produttori campani e veneti."
+     }
+    ],
+    "text": "Scegliere la nostra pizzeria significa scoprire una pizza costruita con metodo e rispetto dei tempi: Lievitazione naturale 48h per un impasto soffice e digeribile. Forno a legna tradizionale per una cottura perfetta a 450°C. Ingredienti 100% DOP e bio per un gusto autentico e sostenibile. Unici perché impasto artigianale. Quindi niente sensazione pesante o svuota stomaco.",
+    "lines": [
+     "Lievitazione naturale 48 ore",
+     "Forno a legna a 450°C",
+     "Ingredienti DOP certificati"
+    ]
+   },
+   {
+    "role": "extra",
+    "type": "services",
+    "extra_why": "Presentazione delle specialità e dei servizi di asporto e delivery",
+    "title": "I Nostri Servizi Esclusivi",
+    "items": [
+     {
+      "title": "Cena in Sala nel Centro Storico",
+      "desc": "Ambiente caldo, accogliente e raffinato con dehors estivo a Padova.",
+      "text": "Ambiente caldo, accogliente e raffinato con dehors estivo a Padova."
+     },
+     {
+      "title": "Asporto & Take Away",
+      "desc": "Ordina telefonicamente o online e ritira all'orario concordato, calda e fragrante.",
+      "text": "Ordina telefonicamente o online e ritira all'orario concordato, calda e fragrante."
+     },
+     {
+      "title": "Eventi Privati & Feste",
+      "desc": "Menu personalizzati per compleanni, cene aziendali e ricorrenze speciali.",
+      "text": "Menu personalizzati per compleanni, cene aziendali e ricorrenze speciali."
+     }
+    ],
+    "text": "Scegliere noi significa accedere a un'esperienza completa: cena in sala con atmosfera accogliente nel centro storico di Padova, asporto caldo e fresco direttamente al tuo orario, e la possibilità di organizzare eventi privati con menu su misura per ogni occasione speciale."
+   },
+   {
+    "role": "extra",
+    "type": "horizontal_gallery",
+    "extra_why": "Galleria fotografica dei piatti del forno e dell'atmosfera del locale",
+    "title": "L'Arte della Pizza nei Nostri Scatti",
+    "text": "Scopri l'attenzione che mettiamo in ogni singolo dettaglio: dalla mano di un pizzaiolo esperto alla luce del forno che crea quel cornicione perfetto fino al piatto impiattato con cura artigianale."
+   },
+   {
+    "role": "prova",
+    "type": "split",
+    "title": "La Soddisfazione dei Nostri Ospiti",
+    "text": "Oltre 1.200 clienti soddisfatti a Padova. Riconosciuti tra le migliori pizzerie veraci del centro storico per recensioni su Google e TripAdvisor."
+   },
+   {
+    "role": "cta",
+    "type": "cta",
+    "title": "Prenota il Tuo Tavolo per Stasera",
+    "subtitle": "I posti nel fine settimana sono limitati. Assicurati l'esperienza verace napoletana nel cuore di Padova.",
+    "button_text": "Prenota Ora",
+    "button_href": "tel:+390491234567",
+    "cta": {
+     "href": "#contatti",
+     "label": "Prenota Ora"
+    }
+   },
+   {
+    "role": "faq",
+    "type": "faq",
+    "title": "Domande Frequenti",
+    "items": [
+     {
+      "q": "Avete opzioni per intolleranti al lattosio o vegetariani?",
+      "a": "Sì, disponiamo di mozzarella senza lattosio e numerose pizze vegetariane ricche di verdure di stagione."
+     },
+     {
+      "q": "È necessario prenotare in anticipo?",
+      "a": "La prenotazione è fortemente consigliata, specialmente nei weekend da venerdì a domenica."
+     },
+     {
+      "q": "Fate anche asporto e consegna a domicilio?",
+      "a": "Certamente, siamo operativi sia per il take-away diretto che per il delivery tramite i principali servizi cittadini."
+     }
+    ]
+   }
+  ],
+  "todo": [
+   "Confermare orari precisi di apertura",
+   "Verificare numero di telefono per prenotazioni WhatsApp"
+  ],
+  "seo": {
+   "description": "Pizza napoletana autentica a Padova con impasto a 48h di lievitazione, ingredienti DOP e forno a legna. Prenota il tuo tavolo per una cena vera."
+  },
+  "nav_cta": {
+   "href": "#contatti",
+   "label": "Prenota un Tavolo"
+  }
+ },
+ "logo": null,
+ "favicon": null,
+ "model": null,
+ "video": null,
+ "images": {}
+}
